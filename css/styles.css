@@ -1,0 +1,28 @@
+/* Цветавая палитра */
+/* Основной цвет фона #ffffff */
+/* Вторичный цвет фона #EBEBEB */
+/* Основной цвет текста #000000 */
+/* Цвет заголовков Н2 #BDBDBD */
+/* Цвет заголовков Н3 #333333 */
+
+
+body {
+    color: #000000;
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    color: #BDBDBD;
+}
+
+h3 {
+    color: #333333;
+}
+
+ul {
+    list-style: none;
+}
